@@ -17,6 +17,7 @@ li {
 
 body{
   width:100%;
+  box-sizing:border-box;
 }
 .header{
     background-color:rgba(147,184,202,0.9);
@@ -104,7 +105,7 @@ body{
 
 .footer1 {
   background-color:#93B8CA;
-
+  box-sizing:border-box;
   height:90px;
   width:100%;
   color:#fff;
@@ -114,6 +115,7 @@ body{
 }
 .footer2{
   background-color:lightslategray;
+  box-sizing:border-box;
   height:135px;
   width:100%;
   color:white;
